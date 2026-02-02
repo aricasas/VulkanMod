@@ -70,8 +70,6 @@ This is a fabric mod that introduces a brand new **Vulkan** based voxel renderin
 >- [ ] Shader support
 >- [ ] Removed Herobrine
 
-
 ## Notes
 - This mod is still in development, please report issues in the [issue tab](https://github.com/xCollateral/VulkanMod/issues) with logs attached!
 - This mode isn't just "minecraft on vulkan" (e.g: [zink](https://docs.mesa3d.org/drivers/zink.html) ), it is a full rewrite of the minecraft renderer.
-
